@@ -14,4 +14,4 @@ Storing data this way is perfect for:<br/>
 - Avoiding file reading especially for systems where that may not be possible or for avoiding the inherent cost that comes with file reading
 - Keeping things in a single executable
 - Making sure that people don't actually break stuff by messing with files
-- Making files harder to access
+- Making certain data harder to access
