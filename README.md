@@ -6,7 +6,7 @@ These headers can be used for C/C++
 Want to incorporate a file into your executable without a file? <br/>
 Use this! <br/>
 Simply compile using your favorite C++ 20 compiler (because it's just 1 file you can literally just use g++) <br/>
-Then run the executable with a parameter like this: ./<exec name> <file path> <br/>
+Then run the executable with a parameter like this: ./\<exec name\> \<file path\> <br/>
 Then it'll generate `header.h` (remember to change the names and use namespaces wherever you want those) <br/>
 Enjoy! <br/>
   
